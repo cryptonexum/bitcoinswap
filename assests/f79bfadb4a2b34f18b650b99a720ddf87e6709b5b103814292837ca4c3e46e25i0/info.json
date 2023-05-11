@@ -1,0 +1,37 @@
+{
+    "name": "Pegs Token",
+    "tick": "PEGS",
+    "id": "f79bfadb4a2b34f18b650b99a720ddf87e6709b5b103814292837ca4c3e46e25i0",
+    "website": "https://bitcoinswap.io",
+    "description": "PEGS aims to create an ecosystem of products ranging from casino platforms to innovative NFT collections and applications. SLAM holders get dividends.",
+    "status": "active",
+    "market": {
+      "coingecko-id":"",
+      "coinmarketcap-id":""
+    },
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/slamtoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SlamToken"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://slamtoken.com/whitepaper"
+        },
+        {
+            "name": "source_code",
+            "url": "https://bscscan.com/address/0x000851476180bfc499ea68450A5327D21C9b050e#code"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/slamtoken"
+        }
+    ],
+    "tags": [
+        "nft"
+    ]
+  }
