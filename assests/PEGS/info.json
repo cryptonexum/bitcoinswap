@@ -10,28 +10,7 @@
       "coinmarketcap-id":""
     },
     "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/slamtoken"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/SlamToken"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://slamtoken.com/whitepaper"
-        },
-        {
-            "name": "source_code",
-            "url": "https://bscscan.com/address/0x000851476180bfc499ea68450A5327D21C9b050e#code"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/slamtoken"
-        }
     ],
     "tags": [
-        "nft"
     ]
   }
