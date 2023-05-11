@@ -65,3 +65,6 @@ Accepted tags:
 ```
 
 
+## Support
+
+For support, email info@bitcoinswap.io
