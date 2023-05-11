@@ -4,7 +4,7 @@
 bitcoin Swap is first Swap build for BRC-20, Where you can swap your tokens inside ordinals.
 
 
-## Guidde to Listing Your asset
+## Guide to Listing Your asset
 
 Contributions are always welcome!
 
