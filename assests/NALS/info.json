@@ -1,0 +1,16 @@
+{
+    "name": "Nals Token",
+    "tick": "NALS",
+    "id": "fd8a5b4d53d9afb37ee2845bb5bb70a490373293bf281728bbe712ee9b0872dbi0",
+    "website": "",
+    "description": "NALS on Brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"nals",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }

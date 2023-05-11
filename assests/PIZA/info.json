@@ -1,0 +1,16 @@
+{
+    "name": "Piza Token",
+    "tick": "PIZA",
+    "id": "c0dd0bc7d0620a02cfedc57a280cfd79823bc754623f9318d9755bcd3b131d14i0",
+    "website": "https://btcpizza.io/",
+    "description": "PIZA on brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"pizabrc",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }

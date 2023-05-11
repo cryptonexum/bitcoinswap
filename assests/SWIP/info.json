@@ -1,9 +1,9 @@
 {
-    "name": "Pegs Token",
-    "tick": "PEGS",
-    "id": "b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0",
+    "name": "BitcoinSwap",
+    "tick": "SWIP",
+    "id": "d04d9247779f278f7d06115dbe881c7028a89ff811a96d53bd6711404c1c3eaai0",
     "website": "https://bitcoinswap.io",
-    "description": "PEGS on brc20",
+    "description": "SWIP on brc20",
     "status": "active",
     "market": {
       "coingecko-id":"",

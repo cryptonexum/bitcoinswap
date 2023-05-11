@@ -1,0 +1,16 @@
+{
+    "name": "Noot Token",
+    "tick": "NOOT",
+    "id": "3903d4eb050a383d5938e02616e69e1fa5606f184a19dff4439ac70136a89720i0",
+    "website": "",
+    "description": "NOOT on Brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"noot-ordinals",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }

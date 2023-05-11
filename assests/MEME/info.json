@@ -1,0 +1,16 @@
+{
+    "name": "Meme Token",
+    "tick": "MEME",
+    "id": "307ffac5d20fc188f723706f85d75c926550d536f5fd1113839586f38542971ci0",
+    "website": "",
+    "description": "MEME on Brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"meme-brc-20",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "Bank Token",
+    "tick": "BANK",
+    "id": "1950ba64967f179bbdca824012902aa80a7b431938c928cec54582233326551bi0",
+    "website": "",
+    "description": "BANK on Brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"bankbrc",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }

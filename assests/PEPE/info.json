@@ -1,0 +1,16 @@
+{
+    "name": "Pepe TOken",
+    "tick": "PEPE",
+    "id": "54d5fe82f5d284363fec6ae6137d0e5263e237caf15211078252c0d95af8943ai0",
+    "website": "",
+    "description": "PEPE on brc20",
+    "status": "active",
+    "market": {
+      "coingecko-id":"pepebrc",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }
