@@ -64,6 +64,10 @@ Accepted tags:
 (text,nft,brc20)
 ```
 
+Lisitng Fee :
+1000 SWIPE or 0.07 BTC
+bc1qcqg2ezhsyvccet0hy0r5mknluamjxl5q8hkn36
+
 
 ## Support
 
