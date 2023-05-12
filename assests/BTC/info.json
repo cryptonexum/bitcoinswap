@@ -1,0 +1,16 @@
+{
+    "name": "Bitocin",
+    "tick": "BTC",
+    "id": "",
+    "website": "",
+    "description": "",
+    "status": "active",
+    "market": {
+      "coingecko-id":"",
+      "coinmarketcap-id":""
+    },
+    "links": [
+    ],
+    "tags": [
+    ]
+  }
