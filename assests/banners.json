@@ -1,18 +1,10 @@
 [
   {
-    "image":"https://bitcoinswap.io/banners/banner1.jpg",
-     "link":"https://gleam.io/DT4ic/brc20dex"
+    "image":"https://swiptoken.com/banner-1.jpg",
+     "link":"https://chromewebstore.google.com/detail/brc20-wallet/ifgjklbmlnimhldbmddmkdhoahfocppf"
   },
   {
-   "image":"https://bitcoinswap.io/banners/banner2.jpg",
-    "link":"https://gleam.io/DT4ic/brc20dex"
-  },
-  {
-   "image":"https://bitcoinswap.io/banners/banner3.jpg",
-    "link":"https://gleam.io/DT4ic/brc20dex"
-  },
-  {
-   "image":"https://bitcoinswap.io/banners/banner4.jpg",
-    "link":"https://gleam.io/DT4ic/brc20dex"
+   "image":"https://swiptoken.com/banner-2.jpg",
+    "link":"https://chromewebstore.google.com/detail/brc20-wallet/ifgjklbmlnimhldbmddmkdhoahfocppf"
   }
 ]
